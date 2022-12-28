@@ -1,0 +1,552 @@
+/* Basic productivity glyphs */
+
+.uniglyph-checkmark::after {
+    content: '\2705';
+}
+
+.uniglyph-crossmark::after {
+    content: '\274C';
+}
+
+.uniglyph-gear::after {
+    content: '\2699';
+}
+
+.uniglyph-hourglass::after {
+    content: '\231B';
+}
+
+.uniglyph-alarmclock::after {
+    content: '\23F0';
+}
+
+.uniglyph-stopwatch::after {
+    content: '\23F1';
+}
+
+.uniglyph-timerclock::after {
+    content: '\23F2';
+}
+
+.uniglyph-pushpin::after {
+    content: '\1F4CC';
+}
+
+.uniglyph-magnifyingglass::after {
+    content: '\1F50D';
+}
+
+.uniglyph-wrench::after {
+    content: '\1F527';
+}
+
+.uniglyph-hammer::after {
+    content: '\1F528';
+}
+
+.uniglyph-nutandbolt::after {
+    content: '\1F529';
+}
+
+.uniglyph-computer::after {
+    content: '\1F4BB';
+}
+
+.uniglyph-laptop::after {
+    content: '\1F4BB';
+}
+
+.uniglyph-mobilephone::after {
+    content: '\1F4F1';
+}
+
+.uniglyph-minidisc::after {
+    content: '\1F4BD';
+}
+
+.uniglyph-printer::after {
+    content: '\1F5A8';
+}
+
+.uniglyph-computermouse::after {
+    content: '\1F5B1';
+}
+
+.uniglyph-filefolder::after {
+    content: '\1F5C1';
+}
+
+.uniglyph-openfilefolder::after {
+    content: '\1F4C2';
+  }
+
+.uniglyph-diskette::after {
+    content: '\1F4BD';
+}
+
+.uniglyph-opticaldisc::after {
+    content: '\1F4BF';
+}
+
+.uniglyph-dvd::after {
+    content: '\1F4C0';
+}
+
+.uniglyph-camera::after {
+    content: '\1F4F7';
+}
+
+.uniglyph-pictureframe::after {
+    content: '\1F5BC';
+}
+
+.uniglyph-cardindexdividers::after {
+    content: '\1F5C2';
+}
+
+/* Basic hand gesture glyphs */
+
+.uniglyph-thumbsup::after {
+    content: '\1F44D';
+}
+
+.uniglyph-thumbsdown::after {
+    content: '\1F44E';
+}
+
+.uniglyph-fist::after {
+    content: '\270A';
+}
+
+.uniglyph-handshake::after {
+    content: '\1F91D';
+}
+
+.uniglyph-fingerscrossed::after {
+    content: '\1F91E';
+}
+
+.uniglyph-raisedhand::after {
+    content: '\270B';
+}
+
+.uniglyph-okay::after {
+    content: '\1F44C';
+}
+
+.uniglyph-pointing::after {
+    content: '\1F446';
+}
+
+.uniglyph-peace::after {
+    content: '\262E';
+}
+
+.uniglyph-rockon::after {
+    content: '\1F918';
+}
+
+/* Travel related glyphs */
+
+.uniglyph-airplane::after {
+    content: '\2708';
+}
+
+.uniglyph-ship::after {
+    content: '\26F5';
+}
+
+.uniglyph-car::after {
+    content: '\1F697';
+}
+
+.uniglyph-bicycle::after {
+    content: '\1F6B2';
+}
+
+.uniglyph-train::after {
+    content: '\1F683';
+}
+
+.uniglyph-bus::after {
+    content: '\1F68C';
+}
+
+.uniglyph-rocket::after {
+    content: '\1F680';
+}
+
+.uniglyph-anchor::after {
+    content: '\2693';
+}
+
+.uniglyph-compass::after {
+    content: '\1F9ED';
+}
+
+.uniglyph-map::after {
+    content: '\1F5FA';
+}
+
+/* Weather related glyphs */
+
+.uniglyph-sunny::after {
+    content: '\2600';
+  }
+  
+  .uniglyph-cloudy::after {
+    content: '\2601';
+  }
+  
+  .uniglyph-rainy::after {
+    content: '\2614';
+  }
+  
+  .uniglyph-snowy::after {
+    content: '\2744';
+  }
+  
+  .uniglyph-thunderstorm::after {
+    content: '\26C8';
+  }
+  
+  .uniglyph-tornado::after {
+    content: '\1F32A';
+  }
+  
+  .uniglyph-windy::after {
+    content: '\1F32C';
+  }
+  
+  .uniglyph-sunrise::after {
+    content: '\1F305';
+  }
+  
+  .uniglyph-sunset::after {
+    content: '\1F307';
+  }
+  
+  .uniglyph-crescentmoon::after {
+    content: '\1F319';
+  }
+
+  /* Computer and IT related glyphs */
+  .uniglyph-keyboard::after {
+    content: '\2328';
+  }
+  
+  .uniglyph-mouse::after {
+    content: '\1F5B1';
+  }
+  
+  .uniglyph-computerdisplay::after {
+    content: '\1F4BB';
+  }
+  
+  .uniglyph-diskdrive::after {
+    content: '\1F4BD';
+  }
+  
+  .uniglyph-floppydisk::after {
+    content: '\1F4BE';
+  }
+  
+  .uniglyph-cdrom::after {
+    content: '\1F4BF';
+  }
+  
+  
+  .uniglyph-server::after {
+    content: '\1F4E0';
+  }
+  
+  .uniglyph-internet::after {
+    content: '\1F4E1';
+  }
+
+  /* Danger glyphs */
+  .uniglyph-warning::after {
+    content: '\26A0';
+  }
+  
+  .uniglyph-skullandcrossbones::after {
+    content: '\2620';
+  }
+  
+  .uniglyph-noentry::after {
+    content: '\26D4';
+  }
+  
+  .uniglyph-collision::after {
+    content: '\1F4A5';
+  }
+  
+  .uniglyph-pistol::after {
+    content: '\1F52B';
+  }
+  
+  .uniglyph-pill::after {
+    content: '\1F48A';
+  }
+  
+  /* Direction and arrow glyphs */
+
+  .uniglyph-leftrightarrow::after {
+    content: '\2194';
+  }
+  
+  .uniglyph-updownarrow::after {
+    content: '\2195';
+  }
+  
+  .uniglyph-northwestarrow::after {
+    content: '\2196';
+  }
+  
+  .uniglyph-northeastarrow::after {
+    content: '\2197';
+  }
+  
+  .uniglyph-southeastarrow::after {
+    content: '\2198';
+  }
+  
+  .uniglyph-southwestarrow::after {
+    content: '\2199';
+  }
+  
+  .uniglyph-rightarrowcurvingup::after {
+    content: '\2934';
+  }
+  
+  .uniglyph-rightarrowcurvingdown::after {
+    content: '\2935';
+  }
+  
+  .uniglyph-upwardsblackarrow::after {
+    content: '\1F53C';
+  }
+
+  .uniglyph-downwardsblackarrow::after {
+    content: '\25BC';
+  }
+  
+  /* Circle Emojis */
+  .uniglyph-heavylargecircle::after {
+    content: '\2B55';
+  }
+  
+  .uniglyph-redcircle::after {
+    content: '\1F534';
+  }
+  
+  .uniglyph-orangecircle::after {
+    content: '\1F7E0';
+  }
+  
+  .uniglyph-yellowcircle::after {
+    content: '\1F7E1';
+  }
+  
+  .uniglyph-greencircle::after {
+    content: '\1F7E2';
+  }
+  
+  .uniglyph-bluecircle::after {
+    content: '\1F535';
+  }
+  
+  .uniglyph-purplecircle::after {
+    content: '\1F7E3';
+  }
+  
+  .uniglyph-browncircle::after {
+    content: '\1F7E4';
+  }
+  
+  .uniglyph-blackcircle::after {
+    content: '\26AB';
+  }
+  
+  .uniglyph-whitecircle::after {
+    content: '\26AA';
+  }
+
+  /* Sound and music glyphs */ 
+  .uniglyph-sound::after {
+    content: '\1F50A';
+  }
+  
+  .uniglyph-loudsound::after {
+    content: '\1F50A';
+  }
+  
+  .uniglyph-mutedsound::after {
+    content: '\1F507';
+  }
+  
+  .uniglyph-bell::after {
+    content: '\1F514';
+  }
+  
+  .uniglyph-musicalnote::after {
+    content: '\1F3B5';
+  }
+  
+  .uniglyph-multiplemusicalnotes::after {
+    content: '\1F3B6';
+  }
+  
+  .uniglyph-musicalscore::after {
+    content: '\1F3BC';
+  }
+  
+  .uniglyph-microphone::after {
+    content: '\1F3A4';
+  }
+  
+  .uniglyph-headphone::after {
+    content: '\1F3A7';
+  }
+
+  /* Media related glyphs */
+
+  .uniglyph-mediaplay::after {
+    content: '\23EF';
+  }
+  
+  .uniglyph-medianext::after {
+    content: '\23ED';
+  }
+  
+  .uniglyph-medialast::after {
+    content: '\23EE';
+  }
+  
+  .uniglyph-mediapause::after {
+    content: '\23F8';
+  }
+  
+  .uniglyph-mediastop::after {
+    content: '\23F9';
+  }
+  
+  .uniglyph-mediarecord::after {
+    content: '\23FA';
+  }
+
+/* Rating glyphs */
+  .uniglyph-star::after {
+    content: '\2B50';
+  }
+  
+  .uniglyph-speechbubble::after {
+    content: '\1F4AC';
+  }
+  
+  .uniglyph-comet::after {
+    content: '\2604';
+  }
+  
+  .uniglyph-fire::after {
+    content: '\1F525';
+  }
+  
+  .uniglyph-ribbon::after {
+    content: '\1F380';
+  }
+
+  /* Work related glyphs */
+
+.uniglyph-briefcase::after {
+  content: '\1F4BC';
+}
+
+.uniglyph-paperclip::after {
+  content: '\1F4CE';
+}
+
+.uniglyph-straightruler::after {
+  content: '\1F4CF';
+}
+
+.uniglyph-triangularruler::after {
+  content: '\1F4D0';
+}
+
+.uniglyph-filefolder2::after {
+  content: '\1F5C3';
+}
+
+.uniglyph-memo::after {
+  content: '\1F4DD';
+}
+
+.uniglyph-scroll::after {
+  content: '\1F4DC';
+}
+
+.uniglyph-pagefacingup::after {
+  content: '\1F4C4';
+}
+
+.uniglyph-pagewithcurl::after {
+  content: '\1F4C3';
+}
+
+.uniglyph-bookmark::after {
+  content: '\1F516';
+}
+
+.uniglyph-barchart::after {
+  content: '\1F4CA';
+}
+
+.uniglyph-chartincreasing::after {
+  content: '\1F4C8';
+}
+
+.uniglyph-chartdecreasing::after {
+  content: '\1F4C9';
+}
+
+/* Communication related */
+.uniglyph-envelope::after {
+  content: '\1F4E9';
+}
+
+.uniglyph-email::after {
+  content: '\1F4E7';
+}
+
+.uniglyph-incomingenvelope::after {
+  content: '\1F4E8';
+}
+
+.uniglyph-incomingenvelopearrow::after {
+  content: '\1F4E5';
+}
+
+.uniglyph-package::after {
+  content: '\1F4E6';
+}
+
+.uniglyph-mailbox::after {
+  content: '\1F4EC';
+}
+
+.uniglyph-outgoing::after {
+  content: '\1F4E4';
+}
+
+.uniglyph-announcement::after {
+  content: '\1F4E3';
+}
+
+.uniglyph-faxmachine::after {
+  content: '\1F4E0';
+}
+
+.uniglyph-satelliteantenna::after {
+  content: '\1F4E1';
+}
