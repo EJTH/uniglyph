@@ -9,4 +9,7 @@ In addition to its performance benefits, uniglyph is also incredibly easy to use
 With uniglyph, you'll never have to worry about slow loading times or blurry icons again. Try it out today and see the difference it can make for your app or prototype!
 
 [Get uniglyph](https://github.com/EJTH/uniglyph)
+
 [Browse icons](https://ejth.github.io/uniglyph/)
+
+[See the ChatGPT transcript](https://github.com/EJTH/uniglyph/ChatGPT-uniglyph.mhtml)
