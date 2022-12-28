@@ -12,4 +12,4 @@ With uniglyph, you'll never have to worry about slow loading times or blurry ico
 
 [Browse icons](https://ejth.github.io/uniglyph/)
 
-[See the ChatGPT transcript](https://github.com/EJTH/uniglyph/ChatGPT-uniglyph.mhtml)
+[See the ChatGPT transcript](https://ejth.github.io/uniglyph/ChatGPT-uniglyph.mhtml)
