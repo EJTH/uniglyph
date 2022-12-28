@@ -72,6 +72,10 @@
     content: '\1F5B1';
 }
 
+.uniglyph-filing-cabinet::after {
+  content: "\1F5C4";
+}
+
 .uniglyph-filefolder::after {
     content: '\1F5C1';
 }
@@ -290,6 +294,38 @@
   }
   
   /* Direction and arrow glyphs */
+
+  .uniglyph-doublearrow-right::after {
+    content: "\23E9";
+  }
+  
+  .uniglyph-doublearrow-left::after {
+    content: "\23EA";
+  }
+  
+  .uniglyph-doublearrow-up::after {
+    content: "\23EB";
+  }
+  
+  .uniglyph-doublearrow-down::after {
+    content: "\23EC";
+  }
+
+  .uniglyph-arrow-right::after {
+    content: "\2192";
+  }
+  
+  .uniglyph-arrow-left::after {
+    content: "\2190";
+  }
+  
+  .uniglyph-arrow-up::after {
+    content: "\2191";
+  }
+  
+  .uniglyph-arrow-down::after {
+    content: "\2193";
+  }
 
   .uniglyph-leftrightarrow::after {
     content: '\2194';
@@ -523,10 +559,6 @@
   content: '\1F4E8';
 }
 
-.uniglyph-incomingenvelopearrow::after {
-  content: '\1F4E5';
-}
-
 .uniglyph-package::after {
   content: '\1F4E6';
 }
@@ -539,6 +571,10 @@
   content: '\1F4E4';
 }
 
+.uniglyph-incoming::after {
+  content: "\1F4E5";
+}
+
 .uniglyph-announcement::after {
   content: '\1F4E3';
 }
@@ -549,4 +585,40 @@
 
 .uniglyph-satelliteantenna::after {
   content: '\1F4E1';
+}
+
+/* Calendar related */
+
+.uniglyph-calendar::after {
+  content: '\1F4C5';
+}
+
+.uniglyph-tear-off-calendar::after {
+  content: '\1F4C6';
+}
+
+/* misc */
+
+.uniglyph-label::after {
+  content: "\1F3F7";
+}
+
+.uniglyph-turtle::after {
+  content: "\1F422";
+}
+
+.uniglyph-rabbit::after {
+  content: "\1F430";
+}
+
+.uniglyph-cardboard-box::after {
+  content: "\1F4E6";
+}
+
+.uniglyph-public-address-loudspeaker::after {
+  content: "\1F4E2";
+}
+
+.uniglyph-error-bomb::after {
+  content: "\1F4A3";
 }
